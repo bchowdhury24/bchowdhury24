@@ -17,7 +17,7 @@
 
 - 📍 **Location**: Canada *(formerly Singapore)*
 - 🎓 **Education**: M.Sc. & B.Sc. in Computer Science (AIUB)
-- 🔭 **Focus**: Node.js, Python, AWS, Distributed Systems, High-Concurrency Video Streaming & CCTV Analytics.
+- 🔭 **Focus**: Node.js, Python, AWS, Distributed Systems, High-Concurrency Video Streaming & CCTV AI Analytics.
 
 ---
 
