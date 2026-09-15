@@ -2,11 +2,7 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Software%20Engineer%20%7C%20AI%20%26%20Distributed%20Systems&fontsize=32&fontColor=ffffff&animation=fadeIn)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bchowdhury24/)
-[![GitHub Followers](https://img.shields.io/github/followers/bchowdhury24?style=for-the-badge&logo=github&color=6366f1)](https://github.com/bchowdhury24)
-
 </div>
 
 ---
