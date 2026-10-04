@@ -7,17 +7,21 @@
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ Who I Am
 
-**Senior Software Engineer & Solution Architect** with **12+ years of experience** designing production-grade backend systems, scalable cloud microservices, live video streaming engines, intelligent CCTV monitoring solutions, and AI-driven automation. 
+**Senior Software Engineer & Architect** — 12+ years designing, building, and
+operating production systems that handle serious traffic: distributed
+microservices at thousands of req/sec and ~100ms latency, live streaming
+infrastructure for 100K+ MAU, and AI-driven platforms processing billions
+of API calls.
 
-- 📍 **Location**: Canada *(formerly Singapore)*
-- 🎓 **Education**: M.Sc. & B.Sc. in Computer Science (AIUB)
-- 🔭 **Focus**: Node.js, Python, AWS, Distributed Systems, High-Concurrency Video Streaming & CCTV AI Analytics.
+- 📍 Calgary, Canada *(formerly Singapore)*
+- 🎓 M.Sc. & B.Sc. in Computer Science (AIUB)
+- 🔭 Node.js · Python · AWS · Distributed Systems · Low-latency Streaming · AI Analytics
 
 ---
 
-## 🛠️ Core Skills & Tech Stack
+## 🛠️ Tech Stack
 
 ```
 🚀 Backend & Languages   :: Node.js | Python | PHP (Laravel) | TypeScript | Bash
@@ -29,35 +33,40 @@
 
 ---
 
-## 🚀 Key Architectural Projects
+## 🚀 Key Projects
 
-### **🎥 AI-Powered CCTV & Surveillance System**
-* Multi-camera RTSP video stream ingestion, real-time frame extraction, and automated computer vision object detection pipeline.
-* **Stack**: `Python` · `OpenCV` · `RTSP` · `Docker` · `Microservices`
+Most of my production work is private (NDAs) — so I've written public
+**case studies**: the problem, the architecture, the decisions, the numbers.
 
-### **📺 High-Concurrency Live Streaming Engine**
-* Enterprise live streaming platform supporting ultra low-latency RTSP-to-WebRTC/HLS transcoding, handling high concurrent viewers (TikTok-style live stream tech).
-* **Stack**: `Node.js` · `WebRTC` · `FFmpeg` · `SRS Server` · `NGINX-RTMP` · `AWS`
+### 🎥 Live Streaming at Scale
+TikTok-class platforms — $20M+ revenue, 100K+ MAU, sub-second latency,
+multi-region failover.
+`Node.js` · `WebRTC` · `FFmpeg` · `SRS` · `NGINX-RTMP` · `AWS`
+→ *[repo: case-study-live-streaming]*
 
-### **📊 Infrastructure Telemetry & Monitoring System**
-* Production-grade server health telemetry, automated alerting hooks, and custom Grafana dashboard integration for multi-node clusters.
-* **Stack**: `Prometheus` · `Grafana` · `Python` · `Node Exporter` · `Docker`
+### 🕸️ FetchAro — AI Scraping Platform
+10B+ API requests/month, <3s response, 40M+ proxy pool, 195 geolocations,
+99.9% uptime SLA. [Live product](https://fetch.klapify.com/)
+`Node.js` · `TypeScript` · `Redis` · `SQS` · `Docker` · `AWS`
+→ *[repo: case-study-fetch-scraper]*
+
+### 🤖 TopLearn — AI-Powered Learning
+Predictive performance analytics for exam prep — insights derived from
+thousands of students' data.
+`Python` · `FastAPI` · `Elasticsearch` · `MySQL`
+→ *[repo: case-study-toplearn]*
+
+### 📹 AI Video Surveillance
+Real-time analytics across thousands of CCTV feeds — searchable, alerting
+infrastructure instead of passive recording.
+`Python` · `OpenCV` · `YOLO` · `RTSP` · `Docker` · `Microservices`
+→ *[repo: case-study-video-surveillance]*
 
 ---
 
-## 📈 GitHub Activity & Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bchowdhury24&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Biswajit's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchowdhury24&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Let's Connect**: [LinkedIn Profile](https://www.linkedin.com/in/bchowdhury24/) · Open to Software Engineering & Architecture Opportunities.
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/bchowdhury24/) ·
+Open to Software Engineering & Architecture opportunities.
 
 </div>
