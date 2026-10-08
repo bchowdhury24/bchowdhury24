@@ -54,13 +54,13 @@ multi-region failover.
 Predictive performance analytics for exam prep — insights derived from
 thousands of students' data.
 `Python` · `FastAPI` · `Elasticsearch` · `MySQL`
-→ *[repo: case-study-toplearn](https://github.com/bchowdhury24/case-study-toplearn)*
+→ *repo: [case-study-toplear](https://github.com/bchowdhury24/case-study-toplearn)*
 
 ### 📹 AI Video Surveillance
 Real-time analytics across thousands of CCTV feeds — searchable, alerting
 infrastructure instead of passive recording.
 `Python` · `OpenCV` · `YOLO` · `RTSP` · `Docker` · `Microservices`
-→ *[repo: case-study-video-surveillance](https://github.com/bchowdhury24/EdgeSafe-AI-CCTV-System)*
+→ *repo: [case-study-video-surveillance](https://github.com/bchowdhury24/EdgeSafe-AI-CCTV-System)*
 
 ---
 
