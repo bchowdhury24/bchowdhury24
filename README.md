@@ -48,7 +48,7 @@ multi-region failover.
 10B+ API requests/month, <3s response, 40M+ proxy pool, 195 geolocations,
 99.9% uptime SLA. [Live product](https://fetch.klapify.com/)
 `Node.js` · `TypeScript` · `Redis` · `SQS` · `Docker` · `AWS`
-→ *[repo: case-study-fetch-scraper]*
+→ *[repo: case-study-fetch-scraper](https://github.com/bchowdhury24/case-study-fetch-scraper)*
 
 ### 🤖 TopLearn — AI-Powered Learning
 Predictive performance analytics for exam prep — insights derived from
