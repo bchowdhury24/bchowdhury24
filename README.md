@@ -56,7 +56,7 @@ thousands of students' data.
 `Python` · `FastAPI` · `Elasticsearch` · `MySQL`
 → *repo: [case-study-toplear](https://github.com/bchowdhury24/case-study-toplearn)*
 
-### 📹 AI Video Surveillance
+### 📹 EdgeSafe AI Video Surveillance
 Real-time analytics across thousands of CCTV feeds — searchable, alerting
 infrastructure instead of passive recording.
 `Python` · `OpenCV` · `YOLO` · `RTSP` · `Docker` · `Microservices`
