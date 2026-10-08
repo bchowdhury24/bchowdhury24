@@ -42,7 +42,7 @@ Most of my production work is private (NDAs) — so I've written public
 TikTok-class platforms — $20M+ revenue, 100K+ MAU, sub-second latency,
 multi-region failover.
 `Node.js` · `WebRTC` · `FFmpeg` · `SRS` · `NGINX-RTMP` · `AWS`
-→ *repo: [case-study-fetch-scraper](https://github.com/bchowdhury24/case-study-live-streaming)*
+→ *repo: [live-streaming-solutions](https://github.com/bchowdhury24/case-study-live-streaming)*
 
 ### 🕸️ FetchAro — AI Scraping Platform
 10B+ API requests/month, <3s response, 40M+ proxy pool, 195 geolocations,
